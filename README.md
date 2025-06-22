@@ -21,4 +21,14 @@ En el spell book (tu libreta de hechizos) cada uno tiene un color. Si conoces qu
   - (4 targets) x (1 time hit)
   - (3 targets) x (1 time hit) AND (repeat 1 target) x (1 time hit)
  
-  ---
+Tips de Stats
+---
+# Stats mediante Comida
+Es importante comer para regenerar salud, mana y stamina. El Help Advise 2.11 Food and Drink además indica:
+
+> Eat or drink an item by righht clicking on it. Otherwise your character will automatically eat the first food item in your inventory and drink the first drink item in your inventory. Your character will search your inventory from the leftmost slot to the rightmost, top to bottom.
+La comida y bebida la consumes con click derecho. OJO: (Siempre) Automaticamente, se consume la comida o bebida en los primeros espacios de tu inventario, comenzando de izquierda a derecha, de arriba hacia abajo.
+ Las bebidas alcohólicas no cuentan.
+
+> Some food or drink will increase various statistics on your character such as hit points or stamina. This increase will only take effect if the stat-increasing food/drink is the first food or drink in your inventory.
+Algunos alimentos te dan incrementos en tus puntaciones PERO solo funciona si los alimentos son lo primero de tu inventario.
