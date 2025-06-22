@@ -5,7 +5,7 @@ Esta es una guía básica para quienes hablan español pero juegan Everquest (10
 
 Hechizos
 ---
-# Guía de colores
+## Guía de colores
 En el spell book (tu libreta de hechizos) cada uno tiene un color. Si conoces que significa cada color, te ahorrarás mucho tiempo de clicks y leyendo descripciones.
 
 - Yellow (Amarillo): Self (a ti mismo)
@@ -24,7 +24,7 @@ En el spell book (tu libreta de hechizos) cada uno tiene un color. Si conoces qu
 Tips de Stats
 ---
 
-# Stats mediante Comida
+## Stats mediante Comida
 Es importante comer para regenerar salud, mana y stamina. El Help Advise 2.11 Food and Drink además indica:
 
 > Eat or drink an item by righht clicking on it. Otherwise your character will automatically eat the first food item in your inventory and drink the first drink item in your inventory. Your character will search your inventory from the leftmost slot to the rightmost, top to bottom.
