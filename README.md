@@ -8,7 +8,7 @@ Hechizos
 ## Guía de colores
 En el spell book (tu libreta de hechizos) cada uno tiene un color. Si conoces que significa cada color, te ahorrarás mucho tiempo de clicks y leyendo descripciones.
 
-- Yellow (Amarillo): Self (a ti mismo)
+- 🟡 Yellow (Amarillo): Self (a ti mismo)
 - Red (Rojo): Single target (un objetivo)
 - Purple (Morado): Buffs the group within a short range (Amplifica los poderes del grupo pero dentro de una distancia)
 - Light Blue (Azul Claro): Detrimental Beam (Rayo de ataque en línea recta)
