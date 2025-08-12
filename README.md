@@ -35,3 +35,92 @@ Las bebidas alcohólicas no cuentan.
 > Some food or drink will increase various statistics on your character such as hit points or stamina. This increase will only take effect if the stat-increasing food/drink is the first food or drink in your inventory.
 
 🍎 Algunos alimentos te dan incrementos en tus puntaciones PERO solo funciona si los alimentos son lo primero de tu inventario.
+
+
+Básicos para cada nivel y expansión
+---
+
+## Comprar _Spells_ 101+
+
+101-105 Katta Kastrum
+
+106-110 The Overthere
+
+111-115 Eastern Wastes and Western Wastes
+
+116-120 Maiden’s Eye
+
+121-125 Laurion Inn.
+
+
+Two additions: 
+Stratos has your 106 Progressive spell, 
+
+Hodstock Hills has your 125 Progressive spell. 
+
+Both vendors are on "Find".
+
+## Armaduras _Wearable Armor_
+Algunos de estas líneas de armaduras las puedes adquirir en el bazaar (muy útil para los que adquieren la mejora al nivel 100 Heroic).
+
+100 - Grandiose Consigned
+
+105 - Castaway or Conflagrant
+
+110 - Snowbound
+
+120 - Obscured Gallant Resonance
+
+125 - Enthralled
+
+### Augmentations (Gemas bonificadoras)
+[Augmentations](https://docs.google.com/spreadsheets/u/0/d/1kwLn79RtRPGlUNssOPp8weE5RlQHXizX3c7Y1d9iuBw/htmlview)
+
+### Armadura por expansión
+Tier 1
+
+105 - The Darkened Sea  
+Castaway
+
+105 - Empires of Kunark  
+Cohort's. NO TRADE.
+
+106 - Ring of Scale  
+Conflagrant. Player crafted, good value. 
+
+110 - Ring of Scale  
+Scale Touched. Requires EoK armor. NO TRADE. 
+
+110 - The Burning Lands  
+Weeping Undefeated Heaven Binding ... Muhbis. NO TRADE. 
+
+110 - Torment of Velious  
+Snowbound
+
+Claws of Veeshan  
+Snowsquall. NO TRADE. 
+
+115 - Torment of Luclin  
+Faded Waxing Crescent   
+Ultra Rares: Blood-Soaked (tradeable)
+
+120 - Nights of Shadow  
+Faded Ascending  
+Evolve - Cloaks of the Selenelion (back)
+
+125 - Laurion's Song  
+Obscured Gallant Resonance (min 120)  
+Evolve - Collars of Legacies Lost (Neck)  
+Ultra Rares: Memoryforged Desolation
+
+
+125 - The Outer Brood  
+Enthralled  
+Evolve: Ring of the Harbinger (finger), drops from Mission or purchasable from vendor after completing ~32 missions and collection from Hodstock
+
+
+
+Sources:
+---
+In-game help windows.  
+Forsaken Destiny discord, #general chat.
