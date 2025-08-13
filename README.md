@@ -73,6 +73,8 @@ Algunos de estas líneas de armaduras las puedes adquirir en el bazaar (muy úti
 
 125 - Enthralled
 
+[Más detalles](https://docs.google.com/spreadsheets/d/11707kD5rilZu-GRl5oWapIFZcqQwOV06J-rqZhFIPLE/edit?usp=sharing)
+
 ### Augmentations (Gemas bonificadoras)
 [Augmentations](https://docs.google.com/spreadsheets/u/0/d/1kwLn79RtRPGlUNssOPp8weE5RlQHXizX3c7Y1d9iuBw/htmlview)
 
@@ -124,3 +126,4 @@ Sources:
 ---
 In-game help windows.  
 Forsaken Destiny discord, #general chat.
+Spreadsheet by Hammackj modified by Phried on Firiona Vie.
