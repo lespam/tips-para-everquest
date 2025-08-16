@@ -171,3 +171,4 @@ Sources:
 In-game help windows.  
 Forsaken Destiny discord, #general chat.
 Spreadsheet by Hammackj modified by Phried on Firiona Vie.
+[Discussion in 'The Veterans' Lounge' started by Pwning, May 14, 2013.](https://forums.daybreakgames.com/eq/index.php?threads/useitem-command-for-click-buffs.200214/)
