@@ -121,6 +121,50 @@ Enthralled
 Evolve: Ring of the Harbinger (finger), drops from Mission or purchasable from vendor after completing ~32 missions and collection from Hodstock
 
 
+Comandos de Código
+---
+El comando /useitem es para activar ítems equipados o almacenados en bolsas. Es ideal para automatizar acciones sin abrir el inventario.
+Perfecto Leslie, aquí tienes la versión final con cada bolsa listada individualmente y las explicaciones en español:
+
+### `/useitem <slot> <subindex>`
+
+**Slot definitions:**
+- Charm (Amuleto) = 0  
+- Left Ear (Oreja izquierda) = 1  
+- Head (Cabeza) = 2  
+- Face (Cara) = 3  
+- Right Ear (Oreja derecha) = 4  
+- Neck (Cuello) = 5  
+- Shoulders (Hombros) = 6  
+- Arms (Brazos) = 7  
+- Back (Espalda) = 8  
+- Left Wrist (Muñeca izquierda) = 9  
+- Right Wrist (Muñeca derecha) = 10  
+- Range (Alcance) = 11  
+- Hands (Manos) = 12  
+- Primary (Principal) = 13  
+- Secondary (Secundario) = 14  
+- Left Ring (Anillo izquierdo) = 15  
+- Right Ring (Anillo derecho) = 16  
+- Chest (Pecho) = 17  
+- Legs (Piernas) = 18  
+- Feet (Pies) = 19  
+- Waist (Cintura) = 20  
+- Power Source (Fuente de alimentación) = 21  
+- Ammo (Munición) = 22  
+- Bag Slot 1 (Ranura de bolsa 1) = 23  
+- Bag Slot 2 (Ranura de bolsa 2) = 24  
+- Bag Slot 3 (Ranura de bolsa 3) = 25  
+- Bag Slot 4 (Ranura de bolsa 4) = 26  
+- Bag Slot 5 (Ranura de bolsa 5) = 27  
+- Bag Slot 6 (Ranura de bolsa 6) = 28  
+- Bag Slot 7 (Ranura de bolsa 7) = 29  
+- Bag Slot 8 (Ranura de bolsa 8) = 30  
+- Bag Slot 9 (Ranura de bolsa 9) = 31  
+- Bag Slot 10 (Ranura de bolsa 10) = 32  
+
+**Subindex:**  
+Solo se usa si el slot es una bolsa. Indica la posición del ítem dentro de la bolsa, empezando desde 0. El orden es de izquierda a derecha y de arriba hacia abajo, como si fuera una cuadrícula.
 
 Sources:
 ---
