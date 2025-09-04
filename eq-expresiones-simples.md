@@ -40,6 +40,17 @@ Expresiones simples. Útiles para macros y comunicación.
 | `( ^_^)/`  | Waving     | ¡Hola grupo!             | Saludo / bienvenida      |
 
 ---
+<details>
+  <summary>⚠️ Expresiones NSFW (haz clic para ver)</summary>
+
+Estas expresiones pueden considerarse inapropiadas en ciertos contextos. Úsalas con discreción.
+
+| Emoticon     | Inglés     | Español / Spanglish | Significado         |
+|--------------|------------|----------------------|----------------------|
+| `(_)(_)`     | Boobs      | Chichis / bolas      | NSFW / visual vulgar |
+| `(_).(_)`    | Ass        | Nalgas               | NSFW / trasero       |
+
+</details>
 
 ## 🧪 Ejemplo para Macros
 
@@ -51,7 +62,6 @@ Expresiones simples. Útiles para macros y comunicación.
 ---
 
 ```
-Este documento fue generado con apoyo de Microsoft Copilot, adaptado por Leslie para el repositorio tips-para-everquest. Las expresiones ASCII fueron seleccionadas por su compatibilidad con macros EverQuest y su relevancia cultural para comunidades bilingües.
-Última edición: septiembre 2025
+Este documento fue generado con apoyo de Microsoft Copilot, adaptado por Leslie para el repositorio tips-para-everquest. Las expresiones ASCII fueron seleccionadas por su compatibilidad con macros EverQuest y su relevancia cultural para comunidades bilingües. Última edición: septiembre 2025
 ```
 
