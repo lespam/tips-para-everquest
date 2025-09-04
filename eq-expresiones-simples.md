@@ -45,10 +45,17 @@ Expresiones simples. Útiles para macros y comunicación.
 
 Estas expresiones pueden considerarse inapropiadas en ciertos contextos. Úsalas con discreción.
 
-| Emoticon     | Inglés     | Español / Spanglish | Significado         |
-|--------------|------------|----------------------|----------------------|
-| `(_)(_)`     | Boobs      | Chichis / bolas      | NSFW / visual vulgar |
-| `(_).(_)`    | Ass        | Nalgas               | NSFW / trasero       |
+| Emoticon     | Inglés        | Español / Spanglish | Significado               |
+|--------------|---------------|----------------------|----------------------------|
+| `(_)(_)`     | Boobs         | Chichis / bolas      | NSFW / visual vulgar       |
+| `(_).(_)`    | Ass           | Nalgas               | NSFW / trasero             |
+| `8===D`      | Dick          | Pene / palo          | NSFW / explícito visual    |
+| `:3`         | Flirty face   | Carita coqueta       | NSFW / insinuación         |
+| `~_^`        | Wink tease    | Guiño travieso       | NSFW / coqueto             |
+| `:X`         | Kiss / hush   | Beso / silencio sexy | NSFW / sugerente           |
+| `:E`         | Tongue out    | Lengua traviesa      | NSFW / insinuación oral    |
+| `=^.^=`      | Neko face     | Gatita / traviesa    | NSFW / rol coqueto         |
+| `:o)`        | Clown kink    | Payaso sexy          | NSFW / fetiche humorístico |
 
 </details>
 
