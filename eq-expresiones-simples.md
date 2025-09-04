@@ -36,7 +36,6 @@ Expresiones simples. Útiles para macros y comunicación.
 | Emoticon   | Inglés     | Español / Spanglish     | Significado             |
 |------------|------------|--------------------------|--------------------------|
 | `\m/`      | Rock on    | Unidos                   | Energía / unidad         |
-| `(•_•)`    | Watching   | Observando               | Vigilante / atento       |
 | `(>_<)`    | Struggling | Luchando                 | Esfuerzo / combate       |
 | `( ^_^)/`  | Waving     | ¡Hola grupo!             | Saludo / bienvenida      |
 
