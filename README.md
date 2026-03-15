@@ -11,10 +11,11 @@ Sitio para Ver perfiles (ve qué usan) [Magelo](https://eq.magelo.com/)
 
 Programa lector del logfile (ver Damage/Heal/Tank per Second) [EQLogParser](https://github.com/kauffman12/EQLogParser)
 
-
 Ver [Resultados de la carrera de contenido para RAIDs](https://www.elitegamerslounge.com/home/progress/)
-ShareCraft [](http://bitistry.com/ShareCraft/)
----
+
+Programa para recetas e inventario [ShareCraft](http://bitistry.com/ShareCraft/)
+
+
 ## Guía de colores
 En el spell book (tu libreta de hechizos) cada uno tiene un color. Si conoces que significa cada color, te ahorrarás mucho tiempo de clicks y leyendo descripciones.
 
