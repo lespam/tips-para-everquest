@@ -2,10 +2,6 @@
 
 Expresiones simples. Útiles para macros y comunicación.
 
-
-
-## 🎭 Expresiones Sociales
-
 | Emoticon |
 |----------|
 | `\o/`    |
@@ -16,42 +12,36 @@ Expresiones simples. Útiles para macros y comunicación.
 | `:-O`    |
 | `:'(`    |
 | `<3`     |
-
-
-| Emoticon |
-|----------|
 | `>:)`    |
 | `^_^`    |
 | `>_<`    |
 | `-_-`    |
 | `(._.)`  |
-
-
-| Emoticon   |
-|------------|
-| `\m/`      |
-| `(>_<)`    |
-| `( ^_^)/`  |
+| `\m/`    |
+| `(>_<)`  |
+| `( ^_^)/` |
+| `:3`     |
+| `~_^`    |
+| `:X`     |
+| `:E`     |
+| `=^.^=`  |
+| `:o)`    |
 
 ---
+
 <details>
   <summary>⚠️ Expresiones NSFW (haz clic para ver)</summary>
 
 Estas expresiones pueden considerarse inapropiadas en ciertos contextos. Úsalas con discreción.
 
-| Emoticon     |
-|--------------|
-| `(_)(_)`     |
-| `(_).(_)`    |
-| `8===D`      |
-| `:3`         |
-| `~_^`        |
-| `:X`         |
-| `:E`         |
-| `=^.^=`      |
-| `:o)`        |
+| Emoticon |
+|----------|
+| `(_)(_)` |
+| `(_).(_)`|
+| `8===D`  |
 
 </details>
+
 
 ## 🧪 Ejemplo para Macros
 
