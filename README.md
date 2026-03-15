@@ -7,16 +7,18 @@ Sitios Básicos
 ---
 Sitio Buscador de items [raidloot.com](https://www.raidloot.com/)
 
-Sitio para Ver perfiles (ve qué usan) [Magelo](https://eq.magelo.com/)
+Sitio para ver qué usan otros [Magelo](https://eq.magelo.com/)
 
-Programa lector del logfile (ver Damage/Heal/Tank per Second) [EQLogParser](https://github.com/kauffman12/EQLogParser)
+Programa lector para ver Damage per Second (DPS), Heal (HPS), Tank (TPS) [EQLogParser](https://github.com/kauffman12/EQLogParser)
 
-Ver [Resultados de la carrera de contenido para RAIDs](https://www.elitegamerslounge.com/home/progress/)
+Carreras de contenido Raids [EliteGamersLounge](https://www.elitegamerslounge.com/home/progress/)
 
 Programa para recetas e inventario [ShareCraft](http://bitistry.com/ShareCraft/)
 
 
-## Guía de colores
+Guías
+---
+## Guía de qué significa cada color en las gemas
 En el spell book (tu libreta de hechizos) cada uno tiene un color. Si conoces que significa cada color, te ahorrarás mucho tiempo de clicks y leyendo descripciones.
 
 - 🟡 Yellow (Amarillo): Self (a ti mismo)
@@ -32,9 +34,6 @@ En el spell book (tu libreta de hechizos) cada uno tiene un color. Si conoces qu
   - (4 targets) x (1 time hit)
   - (3 targets) x (1 time hit) AND (repeat 1 target) x (1 time hit)
  
-Tips de Stats
----
-
 ## Stats mediante Comida
 Es importante comer para regenerar salud, mana y stamina. El Help Advise 2.11 Food and Drink además indica:
 
@@ -51,7 +50,7 @@ Las bebidas alcohólicas no cuentan.
 Básicos para cada nivel y expansión
 ---
 
-## Comprar _Spells_ 101+
+## Comprar Hechizos (_Spells_ 101+)
 
 101-105 Katta Kastrum
 
@@ -65,15 +64,13 @@ Básicos para cada nivel y expansión
 
 125 - 130 Scarred Grove.
 
+Stratos tiene 106 hechizo progresivo.
 
-Two additions: 
-Stratos has your 106 Progressive spell, 
+Hodstock Hills tiene 125 hechizo progresivo.
 
-Hodstock Hills has your 125 Progressive spell. 
+Buscar on "Find".
 
-Both vendors are on "Find".
-
-## Armaduras _Wearable Armor_
+## Armaduras (_Wearable Armor_)
 Algunos de estas líneas de armaduras las puedes adquirir en el bazaar (muy útil para los que adquieren la mejora al nivel 100 Heroic).
 
 100 - Grandiose Consigned
@@ -86,56 +83,47 @@ Algunos de estas líneas de armaduras las puedes adquirir en el bazaar (muy úti
 
 125 - Enthralled
 
+130 - Broken Accord
+
 [Más detalles](https://docs.google.com/spreadsheets/d/11707kD5rilZu-GRl5oWapIFZcqQwOV06J-rqZhFIPLE/edit?usp=sharing)
 
-### Augmentations (Gemas bonificadoras)
+## Augmentations (Gemas bonificadoras)
+
 [Augmentations](https://docs.google.com/spreadsheets/u/0/d/1kwLn79RtRPGlUNssOPp8weE5RlQHXizX3c7Y1d9iuBw/htmlview)
 
-### Armadura por expansión
-Tier 1
+### Armadura por expansión Tier 1
+105 - The Darkened Sea - Castaway
 
-105 - The Darkened Sea  
-Castaway
+105 - Empires of Kunark - Cohort's. No trade.
 
-105 - Empires of Kunark  
-Cohort's. NO TRADE.
-
-106 - Ring of Scale  
-Conflagrant. Player crafted, good value. 
+106 - Ring of Scale - Conflagrant. Tradeskill.
 
 110 - Ring of Scale  
-Scale Touched. Requires EoK armor. NO TRADE. 
+Scale Touched. Requires EoK armor. No trade.
 
 110 - The Burning Lands  
-Weeping Undefeated Heaven Binding ... Muhbis. NO TRADE. 
+Weeping Undefeated Heaven Binding ... Muhbis. No trade. 
 
-110 - Torment of Velious  
-Snowbound
+110 - Torment of Velious - Snowbound
 
-Claws of Veeshan  
-Snowsquall. NO TRADE. 
+Claws of Veeshan - Snowsquall. No trade.
 
-115 - Torment of Luclin  
-Faded Waxing Crescent   
-Ultra Rares: Blood-Soaked (tradeable)
+115 - Torment of Luclin - Faded Waxing Crescent (Blood-Soaked (tradeable) ultra raro)
 
-120 - Nights of Shadow  
-Faded Ascending  
-Evolve - Cloaks of the Selenelion (back)
+120 - Nights of Shadow - Faded Ascending 
+- Evolve - Cloaks of the Selenelion (back)
 
-125 - Laurion's Song  
-Obscured Gallant Resonance (min 120)  
-Evolve - Collars of Legacies Lost (Neck)  
-Ultra Rares: Memoryforged Desolation
+125 - Laurion's Song - Obscured Gallant Resonance (lvl 120)
+- Evolve - Collars of Legacies Lost (Neck)  
+- Ultra Rares: Memoryforged Desolation
 
+125 - The Outer Brood -Enthralled  
+- Evolve: Ring of the Harbinger (requiere progresión y misiones)
 
-125 - The Outer Brood  
-Enthralled  
-Evolve: Ring of the Harbinger (finger), drops from Mission or purchasable from vendor after completing ~32 missions and collection from Hodstock
+130 - Shattering of Ro - Broken Accord (lvl 125)
 
+## Códigos
 
-Comandos de Código
----
 El comando /useitem es para activar ítems equipados o almacenados en bolsas. Es ideal para automatizar acciones sin abrir el inventario.
 Perfecto Leslie, aquí tienes la versión final con cada bolsa listada individualmente y las explicaciones en español:
 
@@ -184,6 +172,8 @@ Sources:
 In-game help windows. 
 
 Forsaken Destiny discord, #general chat.
+
+Machin Shin discord.
 
 Spreadsheet by Hammackj modified by Phried on Firiona Vie.
 
