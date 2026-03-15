@@ -63,6 +63,8 @@ Básicos para cada nivel y expansión
 
 121-125 Laurion Inn.
 
+125 - 130 Scarred Grove.
+
 
 Two additions: 
 Stratos has your 106 Progressive spell, 
