@@ -1,5 +1,5 @@
 """
-@by Sweit from the Forsaken Destiny, Xegony
+@by Sweit from the Machin Shin guild, Xegony
 """
 import pandas as pd
 import os
