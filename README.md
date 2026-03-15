@@ -3,7 +3,17 @@
 
 Esta es una guía básica para quienes hablan español pero juegan Everquest (100% inglés de roleplay).
 
-Hechizos
+Sitios Básicos
+---
+Sitio Buscador de items [raidloot.com](https://www.raidloot.com/)
+
+Sitio para Ver perfiles (ve qué usan) [Magelo](https://eq.magelo.com/)
+
+Programa lector del logfile (ver Damage/Heal/Tank per Second) [EQLogParser](https://github.com/kauffman12/EQLogParser)
+
+
+Ver [Resultados de la carrera de contenido para RAIDs](https://www.elitegamerslounge.com/home/progress/)
+ShareCraft [](http://bitistry.com/ShareCraft/)
 ---
 ## Guía de colores
 En el spell book (tu libreta de hechizos) cada uno tiene un color. Si conoces que significa cada color, te ahorrarás mucho tiempo de clicks y leyendo descripciones.
@@ -168,7 +178,10 @@ Solo se usa si el slot es una bolsa. Indica la posición del ítem dentro de la 
 
 Sources:
 ---
-In-game help windows.  
+In-game help windows. 
+
 Forsaken Destiny discord, #general chat.
+
 Spreadsheet by Hammackj modified by Phried on Firiona Vie.
+
 [Discussion in 'The Veterans' Lounge' started by Pwning, May 14, 2013.](https://forums.daybreakgames.com/eq/index.php?threads/useitem-command-for-click-buffs.200214/)
