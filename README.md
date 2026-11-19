@@ -3,6 +3,8 @@
 
 Esta es una guía básica para quienes hablan español pero juegan Everquest (100% inglés de roleplay).
 
+> 📚 **Guía completa en construcción:** ver el [índice en `docs/`](docs/README.md) (qué es EverQuest, primeros pasos, clases, tips y glosario). Abajo sigue la guía rápida.
+
 Sitios Básicos
 ---
 Sitio Buscador de items [raidloot.com](https://www.raidloot.com/)
